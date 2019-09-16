@@ -19,6 +19,8 @@ In this tutorial you will deploy the Bookinfo application _details_ and _reviews
 in a local, on-premises cluster and
 deploy the _productpage_ and _ratings_ services on a remote, public cluster.
 
+### Bookinfo Skupper Deployment
+
 ![Bookinfo Skupper deployment](https://github.com/ChugR/skupper-example-bookinfo/blob/cr5/graphics/skupper-example-bookinfo-deployment.gif)
 
 User access to the application is via an ingress route to the _productpage_ service.
